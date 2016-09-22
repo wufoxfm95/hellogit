@@ -1,3 +1,2 @@
 hello develop
-<<<<<<< HEAD
 hello 123345A1A2
